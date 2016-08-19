@@ -1,0 +1,35 @@
+html, body {
+  background-color: gray;
+  height: 100%;
+}
+header {
+  height: 80px;
+  width: 1000px;
+  background-color: gold;
+  font-size: 70px;
+  text-align: center;
+  margin-left: 150px;
+
+}
+
+.container{
+  width: 70%;
+  height: 100%;
+  background-color: white;
+  margin: 10px 200px;
+  position: relative;
+
+}
+
+botton {
+  border: 2px solid green;
+}
+
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: pink;
+  position: absolute;
+  bottom: 0;
+
+}
