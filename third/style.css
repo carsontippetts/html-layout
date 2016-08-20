@@ -1,0 +1,58 @@
+html, body {
+  min-height: 500px;
+  height: 100%;
+  width: 100%;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  top: 10px;
+  background-color: blue;
+  position: absolute;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.one {
+  height: 120px;
+  width: 100%;
+  background-color: gray;
+  top: 0;
+  position: absolute;
+
+}
+
+.two {
+  height: 80px;
+  width: 100%;
+  background-color: blue;
+  top: 250px;
+  position: absolute;
+}
+
+.three {
+  height: 80px;
+  width: 100%;
+  background-color: pink;
+  top: 330px;
+  position: absolute;
+}
+
+.four {
+  height: 80px;
+  width: 100%;
+  background-color: #99ffdd;
+  top: 480px;
+  position: absolute;
+}
+
+.five {
+  height: 80px;
+  width: 100%;
+  background-color: green;
+  bottom: 10px;
+  position: absolute;
+}
